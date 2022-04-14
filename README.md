@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @markes131
+- 👀 I’m interested in .NET Technology
+- 🌱 I’m currently learning ASP.NET CORE MVC
