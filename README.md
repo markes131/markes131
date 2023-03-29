@@ -8,8 +8,7 @@ I'm friendly with positive energy, open-minded, and enthusiastic to opportunitie
 
 📌 I've just graduated from The EPAM University Program - .NET Development and started to work on my portfolio projects in ASP.NET Core. If you want an excellent Junior .NET Developer, be in touch. 
 
-Soon I'm going to look for job opportunities in Poland 
-- ready to relocate even to Mars if there were IT freaks 👾.
+Soon I'm going to look for job opportunities in Poland - ready to relocate even to Mars if there were IT freaks 👾.
 
 Chekout my LinkedIn for more details about experience and educational paths -> https://www.linkedin.com/in/pmro/
 
