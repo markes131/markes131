@@ -33,7 +33,7 @@ Old ones developed during studies:
 
 ![projektElectre](https://user-images.githubusercontent.com/34062651/228543240-fba31d54-73d2-4939-98a1-eea03583b06d.png)
 
-![image](https://user-images.githubusercontent.com/34062651/228543776-c65ceab6-c788-4886-835e-43812af1b32a.png)
+![image](https://user-images.githubusercontent.com/34062651/228575862-4d6b038a-60d0-44a6-9077-daf6dea5c997.png)
 
 <-> Management App - windows app made in Java
 
