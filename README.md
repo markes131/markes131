@@ -6,9 +6,7 @@ I'm an IT graduate Junior Project Manager & Junior .NET Developer focused on C# 
 
 I'm friendly with positive energy, open-minded, and enthusiastic to opportunities to learn new tech stuff & approaches to solve problems. I'm devoted to my passions and vocation paths. Problem-solving and curiosity are the things that turn me on. I like to help other people and inspire youth to learn science.
 
-📌 I've just graduated from The EPAM University Program - .NET Development where my main goal was to get an internship, unfortunatelly the company suspended internship program for .NET Juniors in 2023, so I started to work on my portfolio projects in ASP.NET Core. If you want an excellent Aspiring Junior .NET Developer, be in touch. 
-
-Soon I'm going to look for job opportunities in Poland - ready to relocate even to Mars if there were IT freaks 👾.
+📌 Soon I will be looking for job opportunities in Poland - ready to relocate even to Mars if there were IT freaks 👾.
 
 Chekout my LinkedIn for more details about experience and educational paths -> https://www.linkedin.com/in/pmro/
 
@@ -18,7 +16,10 @@ Presently I work on Project Management App as my portfolio project, based on ASP
 
 Development of this project allows me to get deeper in: ASP.NET Core, MVC Design Pattern, Authentication & Authorization, Entity Framework Core, Building Database scheme, implement Repository pattern, Unit Of Work pattern, use Boostrap 5 and others that are planned such as Azure deployment or SignalR for chat feature.
 
-Update: Project development and commits history slowed down because of preparation to Summer Internship opportunities ;)
+Timeline Updates: 
+... - 31.05.2023 | Project development and commits history slowed down because of preparation to Summer Internship opportunities.
+31.05.2023 - presently | It's tough to get on first job, I gained some experience during summer internship's interviews and challenges, but decided to get some work for money during summer that allow me learn further. At the same time during summer work I'm going to implement new features and improve my portfolio's projects ;)
+
 
 ![PM DASHBOARDS](https://user-images.githubusercontent.com/34062651/228538976-4771595c-9ad4-4cd2-9eb1-36bbac9ee8e5.gif)
 
