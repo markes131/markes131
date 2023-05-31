@@ -17,7 +17,9 @@ Presently I work on Project Management App as my portfolio project, based on ASP
 Development of this project allows me to get deeper in: ASP.NET Core, MVC Design Pattern, Authentication & Authorization, Entity Framework Core, Building Database scheme, implement Repository pattern, Unit Of Work pattern, use Boostrap 5 and others that are planned such as Azure deployment or SignalR for chat feature.
 
 Timeline Updates: 
+
 ... - 31.05.2023 | Project development and commits history slowed down because of preparation to Summer Internship opportunities.
+
 31.05.2023 - presently | It's tough to get on first job, I gained some experience during summer internship's interviews and challenges, but decided to get some work for money during summer that allow me learn further. At the same time during summer work I'm going to implement new features and improve my portfolio's projects ;)
 
 
